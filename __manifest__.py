@@ -6,7 +6,7 @@
     "website": "https://3bdalla3adil.github.io/",
     "author": "Eng Abdulla Bashir",
     "license": "OPL-3",
-    "application": False,
+    "application": True,
     "installable": True,
     "depends": ["sale","account"],
     "data": [
