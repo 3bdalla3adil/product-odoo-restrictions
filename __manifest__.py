@@ -11,5 +11,5 @@
     "depends": ["sale","account"],
     "data": [
     ],
-    "price": 9,
+    "price": 0,
 }
