@@ -5,7 +5,7 @@
     "category": "Sales",
     "website": "https://3bdalla3adil.github.io/",
     "author": "Eng Abdulla Bashir",
-    "license": "AGPL-3",
+    "license": "OPL-1",
     "application": False,
     "installable": True,
     "depends": ["sale","account"],
