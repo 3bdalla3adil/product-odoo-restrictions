@@ -5,11 +5,10 @@
     "category": "Sales",
     "website": "https://3bdalla3adil.github.io/",
     "author": "Eng Abdulla Bashir",
-    "license": "OPL-3",
+    "license": "OPL-1",
     "application": True,
     "installable": True,
     "depends": ["sale","account"],
     "data": [
     ],
-    "price": 0,
 }
