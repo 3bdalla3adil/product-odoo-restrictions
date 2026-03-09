@@ -4,4 +4,4 @@
 [![Nightly Builds](https://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&colorA=8F8F8F)](https://nightly.odoo.com/)
 
 
-## this module allow system to show validation error when multiple product are set in one line
+## this module allow system to show validation error when multiple product are set in one sale order or invoice line
