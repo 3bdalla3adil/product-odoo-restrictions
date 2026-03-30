@@ -4,7 +4,7 @@
     "version": "16.0.1.0.1",
     "category": "Sales",
     "website": "https://3bdalla3adil.github.io/",
-    "author": "Eng Abdulla Bashir",
+    "author": "Eng. Abdulla Bashir",
     "license": "OPL-1",
     "application": True,
     "installable": True,
